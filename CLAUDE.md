@@ -1,4 +1,4 @@
-# Mulled Miles (Christmas Markets 2026 tracker)
+# Stall Crawl 26 (Christmas Markets 2026 tracker)
 
 Nick's phone-first web app for Christmas markets within a 5-hour drive of Hoensbroek, NL (next to Heerlen). It covers 249 markets in NL, BE, DE (NRW in depth), LU and FR. Nick and his wife use it on their phones to pick weekend trips. Function comes first, and readability matters: the dark theme is kept at 7:1 contrast for body text.
 
@@ -6,6 +6,7 @@ Nick's phone-first web app for Christmas markets within a 5-hour drive of Hoensb
 
 - `data/markets.json` is the single source of truth. All research results go here.
 - `src/index.template.html` is the whole app: HTML, CSS and vanilla JS. It has no framework and no npm dependencies.
+- `src/icon.svg` is the master app icon (a market stall). `public/icons/` holds the PNGs rendered from it (512, 192, 180 apple-touch) and `favicon.svg`, a tighter crop. Re-render the PNGs if you change it.
 - `scripts/build.mjs` validates the data and builds `public/index.html` + `public/sw.js` (Vercel). With `--artifact`, it builds `dist/artifact.html` (claude.ai artifact, single file).
 - `scripts/verify-list.mjs` prints the markets most in need of re-checking: projected dates, markets opening soon, upcoming events.
 - `docs/UPDATE.md` is the weekly refresh procedure. Follow it exactly for scheduled runs.

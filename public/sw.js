@@ -1,5 +1,5 @@
 // Offline support: the app shell is cached on first visit, so the tracker opens with weak signal at a market.
-const CACHE = "xm26-2c37f3cc4b";
+const CACHE = "xm26-9f558f8c56";
 const SHELL = ["/", "/index.html", "/vendor/jspdf-2.5.1.umd.min.js", "/manifest.webmanifest", "/icons/icon-192.png", "/icons/icon-512.png", "/icons/apple-touch-icon.png", "/icons/favicon.svg"];
 
 self.addEventListener("install", e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())); });

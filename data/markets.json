@@ -971,7 +971,7 @@
   "repBasis": "One of Belgium's busiest winter events; themed winter village with rink and lounges, light on crafts.",
   "tip": "45 minutes away, so it works as a weekday evening trip.",
   "confidence": "confirmed",
-  "source": "https://www.fijnuit.nl/6882/winterland-hasselt",
+  "source": "https://www.winterland.be/",
   "closed": [],
   "entry": "Free",
   "stalls": null,
@@ -984,9 +984,9 @@
    "tue": "11:00-22:00",
    "wed": "11:00-22:00",
    "thu": "11:00-22:00",
-   "fri": "11:00-22:00",
-   "sat": "11:00-22:00",
-   "sun": "11:00-22:00"
+   "fri": "10:00-22:00",
+   "sat": "10:00-22:00",
+   "sun": "10:00-22:00"
   },
   "hoursExceptions": [
    {
@@ -998,12 +998,24 @@
     "hours": "12:00-22:00"
    },
    {
+    "date": "2026-12-26",
+    "hours": "11:00-22:00"
+   },
+   {
+    "date": "2026-12-27",
+    "hours": "11:00-22:00"
+   },
+   {
     "date": "2026-12-31",
     "hours": "11:00-18:00"
    },
    {
     "date": "2027-01-01",
     "hours": "12:00-22:00"
+   },
+   {
+    "date": "2027-01-02",
+    "hours": "11:00-22:00"
    },
    {
     "date": "2027-01-03",
@@ -1013,7 +1025,7 @@
   "events": [
    {
     "date": "2026-11-13",
-    "time": null,
+    "time": "11:00",
     "title": "Winterland opening day",
     "type": "opening",
     "ticket": "free",
@@ -3769,8 +3781,8 @@
   "rep": 4.1,
   "repBasis": "One of Germany's oldest (first recorded 1393) and largest, centred on the Römerberg.",
   "tip": "Train or P+R beats city parking. Try Bethmännchen.",
-  "confidence": "projected",
-  "source": "https://www.meininger-hotels.com/blog/weihnachtsmarkt-frankfurt/",
+  "confidence": "confirmed",
+  "source": "https://www.visitfrankfurt.travel/weihnachtsmarkt",
   "closed": [],
   "closedNote": "",
   "entry": "Free",
@@ -3794,7 +3806,7 @@
     "title": "Opening and tree lighting on Römerberg",
     "type": "opening",
     "ticket": "free",
-    "note": "26 m tree; first Turmbläser concert; 2025 started 16:30 with opera concert"
+    "note": "26 m tree; Glockenspiel 17:05, opening speech 17:10, tower brass 18:00"
    },
    {
     "date": "2026-11-28",
@@ -3802,7 +3814,7 @@
     "title": "Frankfurter Stadtgeläut: 50 bells of 10 churches",
     "type": "tradition",
     "ticket": "free",
-    "note": "pattern from 2025 (Sat before 1st Advent)"
+    "note": "16:30-17:00, Sat before 1st Advent"
    }
   ],
   "highlights": "Over 200 stalls on Römerberg, Paulsplatz and surrounding squares, with the 26 m tree in front of the half-timbered Römer. Tower brass plays from the Nikolaikirche gallery on selected Wednesdays and Saturdays at 18:00; ice rink at Roßmarkt.",
@@ -3824,7 +3836,8 @@
    "kids"
   ],
   "crowds": "Weekday mornings are calm; evenings and Saturdays on Römerberg are very crowded.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-04",
+  "dateNote": "Dates confirmed on 4 Nov"
  },
  {
   "name": "Mons Cœur en Neige",
@@ -6324,17 +6337,19 @@
   "end": "2026-12-13",
   "closed": [],
   "closedNote": "",
-  "hours": "check organizer",
+  "hours": "Fri-Sat 10-20, Sun 10-17",
   "stalls": 60,
   "visitors": null,
   "visitorsYear": null,
   "rep": 3.2,
   "repBasis": "Sustainable market with 60+ local makers inside Trompenburg botanical garden; Rotterdam's best-known Christmas market.",
-  "entry": "Garden admission applies",
+  "entry": "Garden admission (ticket); card only, no cash",
   "tip": "Leave time to walk the arboretum; the market is compact.",
-  "confidence": "projected",
-  "source": "https://www.yourlittleblackbook.me/en/kerstmarkten-nederland-2025/",
-  "id": "rotterdam-trompenburg"
+  "confidence": "confirmed",
+  "source": "https://trompenburg.nl/event/groene-kerstmarkt-2026/",
+  "id": "rotterdam-trompenburg",
+  "verifiedOn": "2026-11-04",
+  "dateNote": "Dates confirmed on 4 Nov"
  },
  {
   "name": "Midwinter Fair Archeon",
@@ -6345,8 +6360,8 @@
   "lat": 52.121,
   "lng": 4.682,
   "driveMin": 150,
-  "start": "2026-12-05",
-  "end": "2026-12-06",
+  "start": "2026-12-12",
+  "end": "2026-12-13",
   "closed": [],
   "closedNote": "",
   "hours": "check organizer",
@@ -6358,9 +6373,11 @@
   "repBasis": "Long-running fantasy and historical winter fair inside an open-air archaeological museum park, with many costumed visitors.",
   "entry": "Paid, about €19.50-35 (2025)",
   "tip": "Dress up if you like; a large share of visitors come in costume.",
-  "confidence": "projected",
-  "source": "https://dutchreview.com/culture/christmas-markets-netherlands/",
-  "id": "archeon-midwinter"
+  "confidence": "confirmed",
+  "source": "https://www.archeon.nl/en/events.html",
+  "id": "archeon-midwinter",
+  "verifiedOn": "2026-11-04",
+  "dateNote": "Dates corrected on 4 Nov"
  },
  {
   "name": "Wintermarkt bij Molen de Ster",
@@ -6583,9 +6600,11 @@
   "repBasis": "Amsterdam's main central Christmas market, about 45 chalets in front of the Rijksmuseum.",
   "entry": "Free",
   "tip": "Combine with the Rijksmuseum and the Amsterdam Light Festival after dark.",
-  "confidence": "projected",
-  "source": "https://www.yourlittleblackbook.me/kerstmarkten-amsterdam-2026/",
-  "id": "amsterdam-museumplein"
+  "confidence": "confirmed",
+  "source": "https://www.icevillage.nl/",
+  "id": "amsterdam-museumplein",
+  "verifiedOn": "2026-11-04",
+  "dateNote": "Dates confirmed on 4 Nov"
  },
  {
   "name": "Funky Xmas Market (Sunday Market Westergas)",
@@ -7303,9 +7322,11 @@
   "repBasis": "Evening theatre festival through the Hanseatic old town with fire pots, decorated houses and a nostalgic fair.",
   "entry": "About €6 online / €8 door (2025); under-8 free",
   "tip": "Buy tickets online; Saturday evening is the liveliest.",
-  "confidence": "projected",
-  "source": "https://www.reischeck.nl/mooiste-kerstmarkten-nederland/",
-  "id": "kampen"
+  "confidence": "confirmed",
+  "source": "https://www.kerstinoudkampen.nl/",
+  "id": "kampen",
+  "verifiedOn": "2026-11-04",
+  "dateNote": "Dates confirmed on 4 Nov"
  },
  {
   "name": "Kerstmarkt Nieuwleusen",
@@ -7348,7 +7369,7 @@
   "end": "2026-11-08",
   "closed": [],
   "closedNote": "",
-  "hours": "check organizer",
+  "hours": "Fri-Sat 11-20, Sun 11-18",
   "stalls": 100,
   "visitors": null,
   "visitorsYear": null,
@@ -7356,9 +7377,11 @@
   "repBasis": "Upmarket winter fair with 100+ exhibitors in pagoda tents on a Twente castle estate.",
   "entry": "About €13.50 adults (2025), cheaper online",
   "tip": "This is the earliest fair of the season; buy tickets online.",
-  "confidence": "projected",
-  "source": "https://www.kidsproof.nl/twente/?p=37563",
-  "id": "warmelo-castle-fair"
+  "confidence": "confirmed",
+  "source": "https://www.winterheerlijckheid.nl/",
+  "id": "warmelo-castle-fair",
+  "verifiedOn": "2026-11-04",
+  "dateNote": "Dates confirmed on 4 Nov"
  },
  {
   "name": "Winterstad Groningen",
@@ -7929,15 +7952,13 @@
   "lat": 52.131,
   "lng": 11.639,
   "driveMin": 285,
-  "start": "2026-11-19",
+  "start": "2026-11-23",
   "end": "2026-12-29",
   "closed": [
-   "2026-11-22",
-   "2026-12-20",
    "2026-12-24",
    "2026-12-25"
   ],
-  "closedNote": "Projected from 2025: closed Totensonntag, 20 Dec (memorial day for the 2024 attack), 24-25 Dec",
+  "closedNote": "Closed 24-25 Dec. Hours may be limited on 20 Dec (memorial day); details to follow.",
   "hours": "Sun-Thu 11-21, Fri-Sat 11-23",
   "stalls": 140,
   "visitors": null,
@@ -7946,9 +7967,11 @@
   "repBasis": "About 140 stalls on the Alter Markt plus the city-wide Lichterwelt illuminations; mainly a regional draw.",
   "entry": "Free",
   "tip": "The Lichterwelt light installations across the city centre are the highlight after dark.",
-  "confidence": "projected",
-  "source": "https://www.volksstimme.de/lokal/magdeburg/weihnachtsmarkt-2025-2026-magdeburg-oeffnungszeiten-parken-programm-3472986",
-  "id": "magdeburg"
+  "confidence": "confirmed",
+  "source": "https://www.weihnachtsmarkt-magdeburg.de/",
+  "id": "magdeburg",
+  "verifiedOn": "2026-11-04",
+  "dateNote": "Dates corrected on 4 Nov"
  },
  {
   "name": "Advent in den Höfen Quedlinburg",
@@ -8034,9 +8057,21 @@
   "repBasis": "Lorraine's Saint-Nicolas season with a village of about 65 chalets, nightly light show on UNESCO Place Stanislas, and a parade that drew 130k spectators in 2025.",
   "entry": "Free",
   "tip": "Go on Sat 5 Dec for the Saint-Nicolas parade and fireworks.",
-  "confidence": "projected",
-  "source": "https://www.festivalenfrance.com/festival/fetes-de-la-saint-nicolas-de-nancy",
-  "id": "nancy-st-nicolas"
+  "confidence": "confirmed",
+  "source": "https://saint-nicolas.nancy.fr/edition-2026",
+  "id": "nancy-st-nicolas",
+  "verifiedOn": "2026-11-04",
+  "dateNote": "Dates confirmed on 4 Nov",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "time": null,
+    "title": "Grand Saint-Nicolas parade",
+    "type": "parade",
+    "ticket": null,
+    "note": "Big weekend 5-6 Dec; time not yet published"
+   }
+  ]
  },
  {
   "name": "Marché de Noël de Reims",
@@ -13183,9 +13218,11 @@
   "repBasis": "Weekend market in and around a former colliery hall in the Maximilianpark, with the walk-in Glass Elephant.",
   "entry": "Park admission",
   "tip": "Climb the Glaselefant for the view.",
-  "confidence": "projected",
-  "source": "https://www.festivalsindeutschland.de/festival/weihnachtsmarkt-maximilianpark-hamm",
-  "id": "hamm-maxipark"
+  "confidence": "confirmed",
+  "source": "https://www.maximilianpark.de/veranstaltungen",
+  "id": "hamm-maxipark",
+  "verifiedOn": "2026-11-04",
+  "dateNote": "Dates confirmed on 4 Nov"
  },
  {
   "name": "Soester Weihnachtsmarkt",
@@ -13570,7 +13607,7 @@
   "end": "2026-12-06",
   "closed": [],
   "closedNote": "",
-  "hours": "Fri-Sun (times TBA)",
+  "hours": "Fri-Sun 11-20",
   "stalls": null,
   "visitors": null,
   "visitorsYear": null,
@@ -13579,9 +13616,11 @@
   "repBasis": "Market spread through the lanes of a picturesque hilltop half-timbered town up to the castle ruins.",
   "entry": "Free",
   "tip": "Steep cobbles - wear good shoes.",
-  "confidence": "projected",
-  "source": "https://www.festivalsindeutschland.de/festival/tecklenburger-nikolausmarkt",
-  "id": "tecklenburg"
+  "confidence": "confirmed",
+  "source": "https://www.tecklenburg-touristik.de/jetzt-fuer-den-nikolausmarkt-2026-anmelden/",
+  "id": "tecklenburg",
+  "verifiedOn": "2026-11-04",
+  "dateNote": "Dates confirmed on 4 Nov"
  },
  {
   "name": "Bielefelder Weihnachtsmarkt",

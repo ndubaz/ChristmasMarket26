@@ -1,4 +1,4 @@
-# Christmas Markets 2026 tracker
+# Mulled Miles (Christmas Markets 2026 tracker)
 
 Nick's phone-first web app for Christmas markets within a 5-hour drive of Hoensbroek, NL (next to Heerlen). It covers 249 markets in NL, BE, DE (NRW in depth), LU and FR. Nick and his wife use it on their phones to pick weekend trips. Function comes first, and readability matters: the dark theme is kept at 7:1 contrast for body text.
 

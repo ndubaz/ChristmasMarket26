@@ -1,4 +1,4 @@
-# Christmas Markets 2026 near Hoensbroek
+# Mulled Miles: Christmas markets 2026 near Hoensbroek
 
 A phone-first web app listing 249 Christmas markets within a 5-hour drive of Hoensbroek (NL, BE, DE, LU, FR). It covers dates, special events, hours, parking, train links, Google Maps links and a personal plan with PDF export. It is a static site with no backend, and it works offline once opened.
 

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Christmas Markets 2026 near Hoensbroek</title>
+<title>Mulled Miles: Christmas markets 2026 near Hoensbroek</title>
 <meta name="description" content="Christmas markets within a 5-hour drive of Hoensbroek: dates, special events, hours, parking and a personal plan.">
 <!--PWA-->
 <meta name="theme-color" content="#0d1319">
@@ -277,8 +277,8 @@ select { background: var(--s1); border: 1px solid var(--line); border-radius: 12
 <header class="top">
   <div class="wrap">
     <div class="brand">
-      <h1>Christmas Markets <span>2026</span></h1>
-      <p id="brandsub">From Hoensbroek</p>
+      <h1>Mulled <span>Miles</span></h1>
+      <p id="brandsub">Christmas markets 2026</p>
     </div>
     <button class="iconbtn" id="textsize" aria-pressed="false" aria-label="Larger text" title="Larger text">A<span style="font-size:1.2em">A</span></button>
   </div>
@@ -827,7 +827,7 @@ function setTab(t, push = true) {
   render(); window.scrollTo(0, 0);
 }
 function render() {
-  $("brandsub").textContent = `From Hoensbroek · ${MARKETS.length} markets · checked ${BUILT}`;
+  $("brandsub").textContent = `${MARKETS.length} Christmas markets · checked ${BUILT}`;
   renderBadge();
   if (state.tab === "home") renderHome();
   else if (state.tab === "browse") renderBrowse();
@@ -1011,8 +1011,8 @@ function buildFullPdf(list) {
   const doc = pdfBase("portrait");
   const sub = `From Hoensbroek, ${filterSummary()}. ${list.length} markets. Checked ${BUILT}.`;
   // cover
-  doc.setFont("helvetica","bold"); doc.setFontSize(26); doc.setTextColor(...INK); doc.text("Christmas Markets 2026", 12, 30);
-  doc.setFont("helvetica","normal"); doc.setFontSize(11); doc.setTextColor(...MUTE); doc.text(ascii(`From Hoensbroek | ${filterSummary()} | ${list.length} markets`), 12, 38);
+  doc.setFont("helvetica","bold"); doc.setFontSize(26); doc.setTextColor(...INK); doc.text("Mulled Miles", 12, 30);
+  doc.setFont("helvetica","normal"); doc.setFontSize(11); doc.setTextColor(...MUTE); doc.text(ascii(`Christmas markets 2026 from Hoensbroek | ${filterSummary()} | ${list.length} markets`), 12, 38);
   doc.setDrawColor(...ACC); doc.setLineWidth(1); doc.line(12, 42, 60, 42);
   const evCount = list.reduce((s, m) => s + m.events.length, 0);
   doc.setFontSize(9.5); doc.setTextColor(...INK);
@@ -1031,7 +1031,7 @@ function buildFullPdf(list) {
   pdfTimeline(doc, list, sub);
   pdfMonths(doc, list, sub);
   pdfDirectory(doc, list, "Directory", sub, true);
-  pdfFooter(doc, "Christmas Markets 2026 near Hoensbroek");
+  pdfFooter(doc, "Mulled Miles  |  Christmas markets 2026 near Hoensbroek");
   return doc;
 }
 function buildPlanPdf() {

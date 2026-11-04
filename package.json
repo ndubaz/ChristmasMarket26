@@ -1,0 +1,12 @@
+{
+  "name": "christmas-markets-2026",
+  "private": true,
+  "version": "3.0.0",
+  "description": "Christmas markets within a 5-hour drive of Hoensbroek, as a phone-first static web app.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/build.mjs && npx --yes serve public"
+  },
+  "engines": { "node": ">=18" }
+}

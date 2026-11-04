@@ -33,8 +33,8 @@ Both must pass. If validation fails, fix the data; don't weaken the validator.
 ## 4. Record and publish
 1. **Changelog:** add a dated section at the top of `data/CHANGELOG.md`. List corrected dates (old to new), newly confirmed markets, cancellations, added events, and what you couldn't verify.
 2. **Git:** commit `public/`, `data/` and the changelog to `main` with the message `Weekly data refresh YYYY-MM-DD`, then push. Vercel redeploys automatically. If the push is refused, say so plainly in the report and continue with step 3.
-3. **claude.ai artifact:** republish slug `5788d9b5-5dca-434a-af3e-4b3f5bd7154a` with `dist/artifact.html` as `index.html`, using `publish_files` in patch mode with `base_version` from `get_artifact`.
-4. **Vercel:** if Vercel has no project for the repo yet, create it with `create_git_project` (repo `ndubaz/ChristmasMarket26`, team `team_O5dGajZMxTjDlfCmwOIKjT5w`).
+3. **claude.ai artifact:** republish https://claude.ai/artifact/BovxLdyaqPY92iZizkdYD7 (slug `5788d9b5-5dca-434a-af3e-4b3f5bd7154a`) with `dist/artifact.html` as the page. Use whichever artifact tool the session has: `publish_files` with `dist/artifact.html` as `index.html`, patch mode and `base_version` from `get_artifact`; or the `Artifact` tool, `read` that URL first, then `publish` `dist/artifact.html` with that `url`. Keep its capabilities. If no artifact tool is available, skip this and say so in the report.
+4. **Vercel:** the project is `mobazxmasmarket26` (team `team_O5dGajZMxTjDlfCmwOIKjT5w`), live at https://mobazxmasmarket26.vercel.app. After the push, check with `list_deployments` that the production deployment for your commit reaches `READY`. If it shows `ERROR`, read the build logs and report the cause. If Vercel refuses access, say so; don't create a new project.
 
 ## 5. Report
 Send Nick a short message:
@@ -43,6 +43,7 @@ Send Nick a short message:
 - cancellations
 - newly confirmed markets
 - notable new events in the next two weeks
+- the live URL, https://mobazxmasmarket26.vercel.app, and whether the deploy reached READY
 - anything that failed (push, deploy, unreachable sites)
 
 Keep it to the facts, with no padding.

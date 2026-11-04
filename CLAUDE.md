@@ -1,6 +1,6 @@
 # Stall Crawl 26 (Christmas Markets 2026 tracker)
 
-Nick's phone-first web app for Christmas markets within a 5-hour drive of Hoensbroek, NL (next to Heerlen). It covers 249 markets in NL, BE, DE (NRW in depth), LU and FR. Nick and his wife use it on their phones to pick weekend trips. Function comes first, and readability matters: the dark theme is kept at 7:1 contrast for body text.
+Stall Crawl 26 is Nick's phone-first web app for Christmas markets within a 5-hour drive of Hoensbroek, NL (next to Heerlen). It covers 249 markets in NL, BE, DE (NRW in depth), LU and FR. Nick and his wife use it on their phones to pick weekend trips. Function comes first, and readability matters: the dark theme is kept at 7:1 contrast for body text.
 
 ## What lives where
 
@@ -25,8 +25,8 @@ npx serve public                    # local preview
 ## Deployment
 
 - **GitHub:** `ndubaz/ChristmasMarket26`, branch `main`. Vercel auto-deploys every push to `main`.
-- **Vercel:** Hobby account `ndubaz-5533`, team id `team_O5dGajZMxTjDlfCmwOIKjT5w`. If no project is linked to the repo yet, link it with the Vercel MCP `create_git_project` (repo `ndubaz/ChristmasMarket26`).
-- **claude.ai artifact:** slug `5788d9b5-5dca-434a-af3e-4b3f5bd7154a` (https://claude.ai/artifact/BovxLdyaqPY92iZizkdYD7). It has the `downloads` capability declared, which the PDF export needs. To republish, build with `--artifact`, then call `publish_files` with `dist/artifact.html` as `index.html` and `base_version` taken from `get_artifact`. Don't change its title or capabilities.
+- **Vercel:** Hobby account `ndubaz-5533`, team id `team_O5dGajZMxTjDlfCmwOIKjT5w`, project `mobazxmasmarket26` (`prj_fuG9i8rCr7kSHpT2wqFymbuHylel`), live at https://mobazxmasmarket26.vercel.app. Pushes to other branches get preview URLs.
+- **claude.ai artifact:** slug `5788d9b5-5dca-434a-af3e-4b3f5bd7154a` (https://claude.ai/artifact/BovxLdyaqPY92iZizkdYD7). It has the `downloads` capability declared, which the PDF export needs. To republish, build with `--artifact` and follow step 4.3 of `docs/UPDATE.md`. Don't change its capabilities. Its title follows the page `<title>` (Stall Crawl 26).
 
 ## Data schema (`data/markets.json`)
 

@@ -1,5 +1,15 @@
 # Data changelog
 
+## 2026-11-11: weekly refresh
+- Checked 30 markets (projected markets first, then confirmed markets opening or with events in the next 3 weeks). No cancellations found. No date corrections.
+- Newly confirmed: Siegen, 20 Nov - 23 Dec (siegen.de). Closed 22 Nov (Totensonntag); hours unchanged from 2025.
+- Closures: Mönchengladbach is officially closed 22 Nov (Totensonntag), 25 and 26 Dec (was an assumption).
+- Events added: Hasselt Winterland opening weekend, Joe Hardy live Fri 13 Nov 21:00 and Garry Hagger live Sat 14 Nov 21:00 (Grand Café, free).
+- Re-checked on official pages with no change: Aachen, Liège (programme matches), Maastricht, Düren, Valkenburg town parades, Gemeentegrot, Fluweelengrot, Schloss Merode, Arcen, Euskirchen, Schloss Dyck, Hasselt, Neuss Quirinus sing-along (29 Nov 16:00).
+- Could not verify (no official 2026 page found, or site blocked/404): Daelenbroeck, Jülich, Neuss market dates, Xanten, Bergisch Gladbach, Lünen, Cochem, Arnsberg, Oldenburg, Herzogenrath, Dorenburg, Roeselare, Veere, Vught, Leiden, Alkmaar, Leeuwarden Blokhuispoort, Elburg, Bourtange, Groeneveld, Krefeld (403), Monschau (source page now 404; kept as confirmed).
+- Leads for next week: Cochem may run 21 Nov - 21 Dec per an aggregator (kept 27 Nov - 20 Dec); Xanten end may be 21 Dec, not 20 Dec (aggregators disagree); Oldenburg: ØLDNBRG Scandinavian village listed 27 or 29 Nov - 27 Dec by two sources.
+- 37 markets still have projected dates.
+
 ## 2026-11-04: weekly refresh
 - Checked 60 markets (48 projected first, then confirmed markets opening or with events in the next 3 weeks). No cancellations found.
 - Dates corrected:

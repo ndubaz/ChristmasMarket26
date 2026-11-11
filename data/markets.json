@@ -69,7 +69,7 @@
    "crafts"
   ],
   "crowds": "Weekdays (cheaper Mon-Thu) are far calmer; weekend slots sell out first and passages get crowded.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11"
  },
  {
   "sizeEst": 0.3,
@@ -138,7 +138,7 @@
    "accessible"
   ],
   "crowds": "Book a weekday slot; Saturdays are the busiest. No dogs.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11"
  },
  {
   "name": "Valkenburg Christmas Town & Christmas Parade",
@@ -257,7 +257,7 @@
    "cave"
   ],
   "crowds": "Weekdays are much quieter; parade Saturdays are packed, so arrive early or pick a Wednesday parade. No parade 5 or 26 Dec.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11"
  },
  {
   "sizeEst": 0.55,
@@ -342,7 +342,7 @@
    "foodie"
   ],
   "crowds": "Weekday daytime is easiest; Friday/Saturday evenings and the 26 Dec are the busiest.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11"
  },
  {
   "name": "Dickens Festijn",
@@ -665,7 +665,7 @@
    "foodie"
   ],
   "crowds": "Friday/Saturday evenings are packed; weekday afternoons are easiest.",
-  "verifiedOn": "2026-11-04",
+  "verifiedOn": "2026-11-11",
   "dateNote": "Dates checked against the official programme on 4 Nov."
  },
  {
@@ -1032,6 +1032,22 @@
     "note": null
    },
    {
+    "date": "2026-11-13",
+    "time": "21:00",
+    "title": "Joe Hardy live at the opening afterwork party",
+    "type": "concert",
+    "ticket": "free",
+    "note": "Grand Café"
+   },
+   {
+    "date": "2026-11-14",
+    "time": "21:00",
+    "title": "Garry Hagger live",
+    "type": "concert",
+    "ticket": "free",
+    "note": "Grand Café, after DJ Bjorn Verhoeven"
+   },
+   {
     "date": "2026-12-06",
     "time": "12:00",
     "title": "Santa's House opens",
@@ -1068,7 +1084,7 @@
    "kids"
   ],
   "crowds": "Weekends and Friday nights are busy; weekday afternoons have short queues.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11"
  },
  {
   "name": "Leuven Christmas market",
@@ -1487,7 +1503,7 @@
    "crafts"
   ],
   "crowds": "Saturdays and the 12 Dec long night are packed, coach groups heavy on weekends; weekday afternoons are calmest.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11"
  },
  {
   "name": "Weihnachtsmarkt am Kölner Dom",
@@ -2380,7 +2396,7 @@
    "foodie"
   ],
   "crowds": "Weekends sell out and car parks queue; weekday 15:00 opening is best; 22 Dec fireworks is the year's busiest night.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11"
  },
  {
   "name": "Bonner Weihnachtsmarkt",
@@ -5895,7 +5911,7 @@
    "crafts"
   ],
   "crowds": "Wednesday/Thursday are quietest (and cheaper for pass holders); Saturday afternoon is the peak.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11"
  },
  {
   "name": "Kerstmarkt Thorn",
@@ -8984,7 +9000,7 @@
    "kids"
   ],
   "crowds": "Admission is €18.50 (children 7-16 €3). Opening time on Sunday is calmest; Saturday afternoons and evenings are busiest.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11"
  },
  {
   "name": "Burgweihnacht auf Burg Satzvey",
@@ -9614,7 +9630,7 @@
    "kids"
   ],
   "crowds": "Weekend evenings busiest; weekday afternoons quiet.",
-  "verifiedOn": "2026-11-04",
+  "verifiedOn": "2026-11-11",
   "dateNote": "Dates corrected on 4 Nov (were 2026-11-19 to 2026-12-24)."
  },
  {
@@ -9786,7 +9802,7 @@
    "kids"
   ],
   "crowds": "Advent weekends very busy; weekday afternoons quiet.",
-  "verifiedOn": "2026-11-04",
+  "verifiedOn": "2026-11-11",
   "dateNote": "Dates corrected on 4 Nov (were 2026-11-12 to 2026-12-20)."
  },
  {
@@ -10534,7 +10550,7 @@
    "cash": null
   },
   "crowds": "Weekday afternoons are quiet; 1st Advent Sunday is the peak.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11"
  },
  {
   "name": "Mönchengladbacher Weihnachtsmarkt",
@@ -10552,7 +10568,7 @@
    "2026-12-25",
    "2026-12-26"
   ],
-  "closedNote": "Totensonntag 22 Nov: status not yet published (NRW markets usually close or open only in the evening); 24-26 Dec closure assumed",
+  "closedNote": "Closed 22 Nov (Totensonntag), 25 and 26 Dec.",
   "hours": "Daily (times TBA)",
   "stalls": null,
   "visitors": null,
@@ -10649,7 +10665,7 @@
    "kids"
   ],
   "crowds": "12-16 Dec (WDR 2 week) and Saturdays very busy; weekday mornings quiet.",
-  "verifiedOn": "2026-11-04",
+  "verifiedOn": "2026-11-11",
   "dateNote": "Dates confirmed in the 4 Nov check."
  },
  {
@@ -13977,9 +13993,11 @@
   "driveMin": 114,
   "start": "2026-11-20",
   "end": "2026-12-23",
-  "closed": [],
-  "closedNote": "Totensonntag 22 Nov: status not yet published (NRW markets usually close or open only in the evening)",
-  "hours": "Mon-Fri 16-22, Sat 11-22, Sun 11-20 (2025)",
+  "closed": [
+   "2026-11-22"
+  ],
+  "closedNote": "Closed 22 Nov (Totensonntag).",
+  "hours": "Mon-Fri 16-22, Sat 11-22, Sun 11-20",
   "stalls": null,
   "visitors": 200000,
   "visitorsYear": "2025 (up to)",
@@ -13987,8 +14005,8 @@
   "repBasis": "South Westphalia's largest market around the Unteres Schloss, with ice rink and historic Ferris wheel.",
   "entry": "Free",
   "tip": "Weekdays open only from 16:00.",
-  "confidence": "projected",
-  "source": "https://regional.bahn.de/regionen/nrw/ausflugstipps/events/weihnachtsmaerkte-uebersicht/siegen_weihnachtsmarkt",
+  "confidence": "confirmed",
+  "source": "https://www.siegen.de/weihnachtsmarkt",
   "id": "siegen",
   "detail": true,
   "hoursWeek": {
@@ -14009,7 +14027,14 @@
    "cash": null
   },
   "crowds": "Weekday openings at 16:00 are quiet; Friday and Saturday evenings at the Bergstation are packed.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-11",
+  "dateNote": "Dates confirmed on 11 Nov",
+  "hoursExceptions": [
+   {
+    "date": "2026-11-22",
+    "hours": "closed"
+   }
+  ]
  },
  {
   "name": "Historischer Weihnachtsmarkt Olpe",

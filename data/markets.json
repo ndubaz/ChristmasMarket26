@@ -257,7 +257,7 @@
    "cave"
   ],
   "crowds": "Weekdays are much quieter; parade Saturdays are packed, so arrive early or pick a Wednesday parade. No parade 5 or 26 Dec.",
-  "verifiedOn": "2026-11-11"
+  "verifiedOn": "2026-11-18"
  },
  {
   "sizeEst": 0.55,
@@ -342,7 +342,7 @@
    "foodie"
   ],
   "crowds": "Weekday daytime is easiest; Friday/Saturday evenings and the 26 Dec are the busiest.",
-  "verifiedOn": "2026-11-11"
+  "verifiedOn": "2026-11-18"
  },
  {
   "name": "Dickens Festijn",
@@ -582,26 +582,10 @@
    {
     "date": "2026-12-02",
     "time": "15:30",
-    "title": "Skate with St Nicholas",
+    "title": "St Nicholas strolls the village",
     "type": "nicholas",
     "ticket": "free",
-    "note": "Place Cathédrale rink"
-   },
-   {
-    "date": "2026-12-05",
-    "time": "13:00",
-    "title": "St Nicholas parade",
-    "type": "nicholas",
-    "ticket": "free",
-    "note": "Place Cathédrale"
-   },
-   {
-    "date": "2026-12-06",
-    "time": "14:00",
-    "title": "St Nicholas and elves stroll",
-    "type": "nicholas",
-    "ticket": "free",
-    "note": "Vînave d'Île"
+    "note": "15:30-17:30, Place Cathédrale"
    },
    {
     "date": "2026-12-03",
@@ -610,6 +594,30 @@
     "type": "latenight",
     "ticket": "free",
     "note": "Concerts/DJ to 23:30, every Thursday"
+   },
+   {
+    "date": "2026-12-04",
+    "time": "20:00",
+    "title": "Disco Fever On Ice",
+    "type": "latenight",
+    "ticket": "free",
+    "note": "Place Cathédrale rink, to 23:00"
+   },
+   {
+    "date": "2026-12-05",
+    "time": "13:00",
+    "title": "St Nicholas strolls the village",
+    "type": "nicholas",
+    "ticket": "free",
+    "note": "13:00-15:00, Place Cathédrale"
+   },
+   {
+    "date": "2026-12-06",
+    "time": "14:00",
+    "title": "St Nicholas and elves stroll",
+    "type": "nicholas",
+    "ticket": "free",
+    "note": "Vînave d'Île"
    },
    {
     "date": "2026-12-10",
@@ -665,7 +673,7 @@
    "foodie"
   ],
   "crowds": "Friday/Saturday evenings are packed; weekday afternoons are easiest.",
-  "verifiedOn": "2026-11-11",
+  "verifiedOn": "2026-11-18",
   "dateNote": "Dates checked against the official programme on 4 Nov."
  },
  {
@@ -1476,6 +1484,22 @@
   ],
   "events": [
    {
+    "date": "2026-11-20",
+    "time": "18:00",
+    "title": "Official opening with the mayor",
+    "type": "opening",
+    "ticket": "free",
+    "note": "18:00-18:30, town hall rear steps, alphorn players"
+   },
+   {
+    "date": "2026-11-27",
+    "time": "18:30",
+    "title": "Live Christmas carols",
+    "type": "concert",
+    "ticket": "free",
+    "note": "18:30-20:00, town hall rear steps"
+   },
+   {
     "date": "2026-12-12",
     "time": null,
     "title": "Long Christmas market (open to 22:00)",
@@ -1503,7 +1527,7 @@
    "crafts"
   ],
   "crowds": "Saturdays and the 12 Dec long night are packed, coach groups heavy on weekends; weekday afternoons are calmest.",
-  "verifiedOn": "2026-11-11"
+  "verifiedOn": "2026-11-18"
  },
  {
   "name": "Weihnachtsmarkt am Kölner Dom",
@@ -2396,7 +2420,7 @@
    "foodie"
   ],
   "crowds": "Weekends sell out and car parks queue; weekday 15:00 opening is best; 22 Dec fireworks is the year's busiest night.",
-  "verifiedOn": "2026-11-11"
+  "verifiedOn": "2026-11-18"
  },
  {
   "name": "Bonner Weihnachtsmarkt",
@@ -5999,7 +6023,7 @@
   "end": "2026-11-22",
   "closed": [],
   "closedNote": "",
-  "hours": "check organizer",
+  "hours": "Sat-Sun 10:00-16:30",
   "stalls": null,
   "visitors": null,
   "visitorsYear": null,
@@ -6008,8 +6032,8 @@
   "repBasis": "Small castle-courtyard fair mixing Christmas goods with antique and vintage dealers from across Europe.",
   "entry": "Paid (check organizer)",
   "tip": "Good early-season stop that pairs easily with Roermond on the same day.",
-  "confidence": "projected",
-  "source": "https://www.yourlittleblackbook.me/it/kerstmarkten-nederland-2026/",
+  "confidence": "confirmed",
+  "source": "https://www.daelenbroeck.nl/activiteiten",
   "id": "daelenbroeck-castle",
   "detail": true,
   "highlights": "7th edition at a moated castle: antique and vintage dealers from across Europe, braziers, Christmas lights, mulled wine and winter snacks.",
@@ -6024,7 +6048,17 @@
    "castle",
    "crafts"
   ],
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-18",
+  "dateNote": "Dates confirmed on 18 Nov",
+  "hoursWeek": {
+   "mon": "closed",
+   "tue": "closed",
+   "wed": "closed",
+   "thu": "closed",
+   "fri": "closed",
+   "sat": "10:00-16:30",
+   "sun": "10:00-16:30"
+  }
  },
  {
   "name": "Kerstmarkt bij de IJzeren Man",
@@ -6268,7 +6302,7 @@
    "2026-11-29"
   ],
   "closedNote": "",
-  "hours": "check organizer",
+  "hours": "10:00-17:00",
   "stalls": 40,
   "visitors": null,
   "visitorsYear": null,
@@ -6276,9 +6310,11 @@
   "repBasis": "Dickens-themed market of about 40 stalls in a tiny, very picturesque Zeeland harbour town.",
   "entry": "Free",
   "tip": "Pair with Middelburg 10 minutes away for a weekend in Zeeland.",
-  "confidence": "projected",
-  "source": "https://www.yourlittleblackbook.me/it/kerstmarkten-nederland-2026/",
-  "id": "veere-dickens"
+  "confidence": "confirmed",
+  "source": "https://www.zeeland.com/en/visit/things-to-do/events/markets/christmas-markets",
+  "id": "veere-dickens",
+  "verifiedOn": "2026-11-18",
+  "dateNote": "Dates confirmed on 18 Nov"
  },
  {
   "name": "Royal Christmas Fair",
@@ -6578,11 +6614,11 @@
   "lat": 52.2025,
   "lng": 5.2627,
   "driveMin": 130,
-  "start": "2026-12-11",
-  "end": "2026-12-13",
+  "start": "2026-12-04",
+  "end": "2026-12-06",
   "closed": [],
   "closedNote": "",
-  "hours": "check organizer",
+  "hours": "10:00-17:00",
   "stalls": null,
   "visitors": null,
   "visitorsYear": null,
@@ -6592,8 +6628,10 @@
   "entry": "check organizer",
   "tip": "Confirm the 2026 programme before travelling; dates follow the 2025 pattern.",
   "confidence": "projected",
-  "source": "https://whereisthemarket.com/2025/02/26/the-ultimate-guide-to-christmas-markets-in-the-netherlands/",
-  "id": "groeneveld-castle"
+  "source": "https://www.staatsbosbeheer.nl/kasteel-groeneveld/activiteiten",
+  "id": "groeneveld-castle",
+  "verifiedOn": "2026-11-18",
+  "dateNote": "Dates corrected on 18 Nov (owner Staatsbosbeheer lists a winter fair 4-6 Dec; year not printed)"
  },
  {
   "name": "Christmas Village Museumplein (Ice Village)",
@@ -9501,7 +9539,7 @@
    "castle"
   ],
   "crowds": "Small local market; Saturday evenings liveliest.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-18"
  },
  {
   "name": "Dürener Weihnachtsmarkt",
@@ -9630,7 +9668,7 @@
    "kids"
   ],
   "crowds": "Weekend evenings busiest; weekday afternoons quiet.",
-  "verifiedOn": "2026-11-11",
+  "verifiedOn": "2026-11-18",
   "dateNote": "Dates corrected on 4 Nov (were 2026-11-19 to 2026-12-24)."
  },
  {
@@ -9655,8 +9693,8 @@
   "repBasis": "Long-running (50+ editions) town market on the Schlossplatz beside the Renaissance citadel.",
   "entry": "Free",
   "tip": "Short drive from home; good for a weekday evening.",
-  "confidence": "projected",
-  "source": "https://www.festivalsindeutschland.de/festival/weihnachtsmarkt-juelich-schlossplatz",
+  "confidence": "confirmed",
+  "source": "https://www.juelich.de/stadtfestundkirmessen",
   "id": "julich",
   "detail": true,
   "highlights": "52nd market on the Schlossplatz in front of the Renaissance citadel, organised by Werbegemeinschaft Jülich; mulled wine, crafts, regular St Nicholas visits. Free entry.",
@@ -9671,7 +9709,8 @@
    "castle"
   ],
   "crowds": "Local market; weekend evenings busiest.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-18",
+  "dateNote": "Dates confirmed on 18 Nov"
  },
  {
   "name": "Herzogenrather Burgweihnacht",
@@ -9695,8 +9734,8 @@
   "repBasis": "Third-Advent-weekend market around medieval Burg Rode on the Dutch border, popular with Dutch visitors.",
   "entry": "Free",
   "tip": "Practically next door (~20 min) - easy Friday-evening outing.",
-  "confidence": "projected",
-  "source": "https://www.festivalsindeutschland.de/festival/herzogenrather-burgweihnacht",
+  "confidence": "confirmed",
+  "source": "https://www.herzogenrath.de/aktuelles/2025/dezember/terminvorschau-worauf-sich-die-herzogenratherinnen-und-herzogenrather-im-neuen-jahr-freuen-koennen/",
   "id": "herzogenrath-castle",
   "detail": true,
   "events": [
@@ -9730,7 +9769,8 @@
    "crafts"
   ],
   "crowds": "Saturday evening busiest; Sunday afternoon relaxed.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-18",
+  "dateNote": "Dates confirmed on 18 Nov"
  },
  {
   "name": "Weihnachtsmarkt Euskirchen (Alter Markt)",
@@ -10391,7 +10431,7 @@
    "kids"
   ],
   "crowds": "Saturday and Sunday after dusk busiest; Friday 14:00-17:00 quiet.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-18"
  },
  {
   "name": "Weihnachtszauber Areal Böhler",

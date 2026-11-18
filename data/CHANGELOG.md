@@ -1,5 +1,17 @@
 # Data changelog
 
+## 2026-11-18: weekly refresh
+- Checked 34 markets (projected markets first, then confirmed markets opening or with events in the next 3 weeks). No cancellations found.
+- Dates corrected: Kerst op Kasteel Groeneveld, now 4-6 Dec, 10:00-17:00 (was 11-13 Dec). Owner Staatsbosbeheer lists the winter fair on its activities page, but no year is printed, so it stays projected.
+- Newly confirmed (official pages, dates unchanged): Jülich, 19 Nov - 22 Dec (juelich.de); Herzogenrath Burgweihnacht, 11-13 Dec (herzogenrath.de); Christmas & Vintage Fair Kasteel Daelenbroeck, 21-22 Nov, 10:00-16:30 (daelenbroeck.nl); Dickens Wintermarkt Veere, 21, 22, 28 and 29 Nov, 10:00-17:00 (VVV Zeeland).
+- Events added: Aachen official opening Fri 20 Nov 18:00 and live carols Fri 27 Nov 18:30 (town hall rear steps); Liège Disco Fever On Ice Fri 4 Dec 20:00.
+- Events corrected: Liège 2 Dec 15:30 and 5 Dec 13:00 are St Nicholas strolls (not a skate session or parade), per the official programme.
+- Re-checked on official pages with no change: Aachen, Düren, Maastricht, Liège, Valkenburg parades (21 and 28 Nov 19:30, 9 Dec 19:00), Schloss Merode programme, Stolberg, Schloss Benrath.
+- Could not verify (no official 2026 page, or site blocked/404/503): Cochem (official page already shows only 2027 dates), Xanten (403), Oldenburg, Neuss, Roeselare (403), Libramont (503), Arnsberg (503), Lünen, Schloss Burg, Uddel, Bourtange, Leeuwarden Blokhuispoort (403), Elburg (source page now 404), Leiden, Monschau (503/404, kept as confirmed), Krefeld (403), Rurberg (Saturday close may be 19:00, not 20:00; unconfirmed).
+- Not reached this week: Bergisch Gladbach, Dorenburg, Hardenberg, Denklingen, Petershagen, Vught, Heusden, Arnhem, Tiel, Harmelen, Hattem, Nieuwleusen, Ootmarsum, Alkmaar, Hoorn, Havelte, Wezup, Dokkum, and 12 confirmed markets with upcoming events.
+- Leads for next week: Leeuwarden Blokhuispoort likely 12-13 Dec (2025 edition was the same weekend); Groeneveld year via trotsmarkt.nl; Xanten end 20 or 21 Dec still unresolved.
+- 33 markets still have projected dates.
+
 ## 2026-11-11: weekly refresh
 - Checked 30 markets (projected markets first, then confirmed markets opening or with events in the next 3 weeks). No cancellations found. No date corrections.
 - Newly confirmed: Siegen, 20 Nov - 23 Dec (siegen.de). Closed 22 Nov (Totensonntag); hours unchanged from 2025.

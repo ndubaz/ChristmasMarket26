@@ -257,7 +257,7 @@
    "cave"
   ],
   "crowds": "Weekdays are much quieter; parade Saturdays are packed, so arrive early or pick a Wednesday parade. No parade 5 or 26 Dec.",
-  "verifiedOn": "2026-11-18"
+  "verifiedOn": "2026-11-25"
  },
  {
   "sizeEst": 0.55,
@@ -320,6 +320,14 @@
     "type": "opening",
     "ticket": "free",
     "note": null
+   },
+   {
+    "date": "2026-12-10",
+    "time": "17:00",
+    "title": "Santa's arrival procession",
+    "type": "parade",
+    "ticket": "free",
+    "note": "From the Stadhuis to Santa's house on Onze Lieve Vrouweplein"
    }
   ],
   "highlights": "Winter village on the Vrijthof below St Servaas and St Jan, with rink, carousel, Ferris wheel, chalets and a regional-products square; plus light routes through the old town. Craft stalls close 22:00, rides 23:00, catering later.",
@@ -342,7 +350,7 @@
    "foodie"
   ],
   "crowds": "Weekday daytime is easiest; Friday/Saturday evenings and the 26 Dec are the busiest.",
-  "verifiedOn": "2026-11-18"
+  "verifiedOn": "2026-11-25"
  },
  {
   "name": "Dickens Festijn",
@@ -580,12 +588,28 @@
     "note": "Vînave d'Île"
    },
    {
+    "date": "2026-11-28",
+    "time": "20:00",
+    "title": "Génération 80 playlist night on the ice",
+    "type": "latenight",
+    "ticket": "free",
+    "note": "20:00-23:00, Place Cathédrale"
+   },
+   {
     "date": "2026-12-02",
     "time": "15:30",
     "title": "St Nicholas strolls the village",
     "type": "nicholas",
     "ticket": "free",
     "note": "15:30-17:30, Place Cathédrale"
+   },
+   {
+    "date": "2026-12-03",
+    "time": "18:00",
+    "title": "RTBF Tarmac night",
+    "type": "latenight",
+    "ticket": "free",
+    "note": "18:00-22:00, Place Cathédrale"
    },
    {
     "date": "2026-12-03",
@@ -610,6 +634,14 @@
     "type": "nicholas",
     "ticket": "free",
     "note": "13:00-15:00, Place Cathédrale"
+   },
+   {
+    "date": "2026-12-05",
+    "time": "20:00",
+    "title": "Génération 2000 night on the ice",
+    "type": "latenight",
+    "ticket": "free",
+    "note": "20:00-23:00, Place Cathédrale"
    },
    {
     "date": "2026-12-06",
@@ -673,7 +705,7 @@
    "foodie"
   ],
   "crowds": "Friday/Saturday evenings are packed; weekday afternoons are easiest.",
-  "verifiedOn": "2026-11-18",
+  "verifiedOn": "2026-11-25",
   "dateNote": "Dates checked against the official programme on 4 Nov."
  },
  {
@@ -1092,7 +1124,7 @@
    "kids"
   ],
   "crowds": "Weekends and Friday nights are busy; weekday afternoons have short queues.",
-  "verifiedOn": "2026-11-11"
+  "verifiedOn": "2026-11-25"
  },
  {
   "name": "Leuven Christmas market",
@@ -1527,7 +1559,7 @@
    "crafts"
   ],
   "crowds": "Saturdays and the 12 Dec long night are packed, coach groups heavy on weekends; weekday afternoons are calmest.",
-  "verifiedOn": "2026-11-18"
+  "verifiedOn": "2026-11-25"
  },
  {
   "name": "Weihnachtsmarkt am Kölner Dom",
@@ -2420,7 +2452,7 @@
    "foodie"
   ],
   "crowds": "Weekends sell out and car parks queue; weekday 15:00 opening is best; 22 Dec fireworks is the year's busiest night.",
-  "verifiedOn": "2026-11-18"
+  "verifiedOn": "2026-11-25"
  },
  {
   "name": "Bonner Weihnachtsmarkt",
@@ -6007,7 +6039,7 @@
    "accessible"
   ],
   "crowds": "Arrive at 11:00; early-to-mid afternoon is the crush.",
-  "verifiedOn": "2026-11-04",
+  "verifiedOn": "2026-11-25",
   "dateNote": "Dates confirmed in the 4 Nov check."
  },
  {
@@ -7584,8 +7616,8 @@
   "lat": 53.203,
   "lng": 5.792,
   "driveMin": 210,
-  "start": "2026-12-19",
-  "end": "2026-12-20",
+  "start": "2026-12-12",
+  "end": "2026-12-13",
   "closed": [],
   "closedNote": "",
   "hours": "Sat 11-21, Sun 11-18 (previous edition)",
@@ -7597,8 +7629,10 @@
   "entry": "€2",
   "tip": "Check the 2026 weekend before going; dates follow an earlier edition's pattern.",
   "confidence": "projected",
-  "source": "https://www.visitleeuwarden.com/en/agenda/2764068540/kerstmarkt-blokhuispoort",
-  "id": "leeuwarden-prison"
+  "source": "https://www.kidsproof.nl/friesland/?p=35789",
+  "id": "leeuwarden-prison",
+  "dateNote": "Dates corrected on 25 Nov (still projected; listings now give 12-13 Dec, matching the 2025 weekend)",
+  "verifiedOn": "2026-11-25"
  },
  {
   "name": "Nostalgische Kerstmarkt Wezup",
@@ -9038,7 +9072,7 @@
    "kids"
   ],
   "crowds": "Admission is €18.50 (children 7-16 €3). Opening time on Sunday is calmest; Saturday afternoons and evenings are busiest.",
-  "verifiedOn": "2026-11-11"
+  "verifiedOn": "2026-11-25"
  },
  {
   "name": "Burgweihnacht auf Burg Satzvey",
@@ -9310,7 +9344,7 @@
    "wed": "closed",
    "thu": "closed",
    "fri": "closed",
-   "sat": "14:00-20:00",
+   "sat": "14:00-19:00",
    "sun": "11:00-19:00"
   },
   "events": [
@@ -9382,7 +9416,7 @@
    "kids"
   ],
   "crowds": "Busiest around the dusk boat arrival; come early afternoon.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-25"
  },
  {
   "name": "Adventswochenende im LVR-Freilichtmuseum Kommern",
@@ -9539,7 +9573,7 @@
    "castle"
   ],
   "crowds": "Small local market; Saturday evenings liveliest.",
-  "verifiedOn": "2026-11-18"
+  "verifiedOn": "2026-11-25"
  },
  {
   "name": "Dürener Weihnachtsmarkt",
@@ -9593,7 +9627,7 @@
    },
    {
     "date": "2026-11-25",
-    "time": null,
+    "time": "18:00",
     "title": "Beats and Bells (electronic music)",
     "type": "latenight",
     "ticket": "free",
@@ -9601,7 +9635,7 @@
    },
    {
     "date": "2026-12-02",
-    "time": null,
+    "time": "18:00",
     "title": "Beats and Bells",
     "type": "latenight",
     "ticket": "free",
@@ -9609,7 +9643,7 @@
    },
    {
     "date": "2026-12-06",
-    "time": null,
+    "time": "17:00",
     "title": "Xmas kids' show / Magic Santa",
     "type": "nicholas",
     "ticket": "free",
@@ -9617,7 +9651,7 @@
    },
    {
     "date": "2026-12-09",
-    "time": null,
+    "time": "18:00",
     "title": "Beats and Bells",
     "type": "latenight",
     "ticket": "free",
@@ -9633,7 +9667,7 @@
    },
    {
     "date": "2026-12-16",
-    "time": null,
+    "time": "18:00",
     "title": "Beats and Bells",
     "type": "latenight",
     "ticket": "free",
@@ -9641,7 +9675,7 @@
    },
    {
     "date": "2026-12-20",
-    "time": null,
+    "time": "13:00",
     "title": "Medieval-themed day",
     "type": "other",
     "ticket": "free",
@@ -9649,7 +9683,7 @@
    },
    {
     "date": "2026-12-23",
-    "time": null,
+    "time": "18:00",
     "title": "Beats and Bells (last day)",
     "type": "latenight",
     "ticket": "free",
@@ -9668,7 +9702,7 @@
    "kids"
   ],
   "crowds": "Weekend evenings busiest; weekday afternoons quiet.",
-  "verifiedOn": "2026-11-18",
+  "verifiedOn": "2026-11-25",
   "dateNote": "Dates corrected on 4 Nov (were 2026-11-19 to 2026-12-24)."
  },
  {
@@ -10084,7 +10118,7 @@
    "kids"
   ],
   "crowds": "Saturdays busiest; Friday evening (cheaper €4 late ticket last 90 min) is calmer.",
-  "verifiedOn": "2026-11-04"
+  "verifiedOn": "2026-11-25"
  },
  {
   "name": "Weihnachtsmarkt auf Burg Wissem",
@@ -10542,7 +10576,7 @@
    "medieval"
   ],
   "crowds": "Small rooms fill by mid-afternoon; arrive at 11:00.",
-  "verifiedOn": "2026-11-04",
+  "verifiedOn": "2026-11-25",
   "dateNote": "Dates confirmed in the 4 Nov check."
  },
  {
@@ -10705,7 +10739,7 @@
    "kids"
   ],
   "crowds": "12-16 Dec (WDR 2 week) and Saturdays very busy; weekday mornings quiet.",
-  "verifiedOn": "2026-11-11",
+  "verifiedOn": "2026-11-25",
   "dateNote": "Dates confirmed in the 4 Nov check."
  },
  {

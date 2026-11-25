@@ -1,5 +1,16 @@
 # Data changelog
 
+## 2026-11-25: weekly refresh
+- Checked 37 markets (projected markets opening soonest first, then confirmed markets with events in the next 3 weeks). No cancellations found. No markets newly confirmed.
+- Dates corrected (still projected): Kerstmarkt Blokhuispoort Leeuwarden, now 12-13 Dec (was 19-20 Dec). Listings now give 12-13 Dec 2026, the same weekend as 2025; the official visitleeuwarden.com page is blocked (403).
+- Hours: Rurberg Saturday close is 19:00, not 20:00 (nrw-tourism.com).
+- Events added: Maastricht Santa's arrival procession Thu 10 Dec 17:00 (Stadhuis to Onze Lieve Vrouweplein); Liège Génération 80 night on the ice Sat 28 Nov 20:00, RTBF Tarmac night Thu 3 Dec 18:00, Génération 2000 night Sat 5 Dec 20:00.
+- Event times filled in: Düren Beats and Bells every Wednesday from 18:00, kids' show Sun 6 Dec 17:00, medieval day Sun 20 Dec from 13:00.
+- Re-checked on official pages with no change: Valkenburg parades (no parade 5 or 26 Dec), Schloss Merode, Schloss Dyck, Stolberg, Thorn, Aachen, Mönchengladbach, Maastricht, Düren, Liège, Rurberg, Schloss Türnich, Zons, Hasselt.
+- Could not verify (only aggregator listings, or site blocked/404/503): Neuss (official page gives no year), Schloss Burg (503), Denklingen (official site unreachable; listings say 28-29 Nov, matching), Petershagen, Schloss Hardenberg, Oldenburg, Xanten (403), Cochem (aggregators say 21 Nov - 21 Dec; kept 27 Nov - 20 Dec), Dorenburg, Bourtange, Elburg (source 404), Heusden, Ootmarsum, Dokkum, Hattem, Krefeld (403), Monschau (404), Kempen and Neersen (nrw-tourism pages 404). Rurberg page no longer says St Nicholas arrives by boat; kept the events.
+- Not reached this week: Vught, Arnhem, Tiel, Arnsberg, Harmelen, Libramont, Leiden, Nieuwleusen, Hoorn, Wezup, Groeneveld, Bergisch Gladbach, Lünen, Alkmaar, Roeselare, Havelte, Herzogenrath, Eupen, Kommern, Satzvey (source 404), Steinfeld, Euskirchen, Reifferscheid, Monheim.
+- 33 markets still have projected dates.
+
 ## 2026-11-18: weekly refresh
 - Checked 34 markets (projected markets first, then confirmed markets opening or with events in the next 3 weeks). No cancellations found.
 - Dates corrected: Kerst op Kasteel Groeneveld, now 4-6 Dec, 10:00-17:00 (was 11-13 Dec). Owner Staatsbosbeheer lists the winter fair on its activities page, but no year is printed, so it stays projected.
